@@ -1,8 +1,8 @@
 # Sentence Classification on NSMC
-## Model: Y.Kim CNN
+## model: Y.Kim CNN
 ## token unit: morpheme and BPE (Byte Pair Encoding)
 ## experiment results
-morpheme: 83.13
+Morpheme: 83.13
 
 BPE sejong (60000): 83.68
 
