@@ -1,4 +1,5 @@
 # Sentence Classification on NSMC
+## Model: Y.Kim CNN
 ## token unit: morpheme and BPE (Byte Pair Encoding)
 ## experiment results
 morpheme:
