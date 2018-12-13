@@ -2,7 +2,7 @@
 ## Model: Y.Kim CNN
 ## token unit: morpheme and BPE (Byte Pair Encoding)
 ## experiment results
-morpheme:
+morpheme: 83.13
 
 BPE sejong (60000): 83.68
 
@@ -12,6 +12,6 @@ BPE 30000: 80.69
 
 BPE 20000: 81.70
 
-BPE 15000: 
+BPE 15000: 82.60
 
-BPE 10000: 
+BPE 10000: 83.10
