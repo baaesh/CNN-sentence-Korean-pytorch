@@ -3,7 +3,7 @@
 ## experiment results
 morpheme:
 
-BPE sejong: 83.68
+BPE sejong (60000): 83.68
 
 BPE 60000: 78.63
 
