@@ -120,8 +120,8 @@ def train(opt):
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument("--token", default="morph", help="available: morph and bpe")
-    parser.add_argument("--train_data", default="data/NSMC/origin/ratings_train.txt")
-    parser.add_argument("--valid_data", default="data/NSMC/origin/ratings_test.txt")
+    parser.add_argument("--train_data", default="data/NSMC/train.txt")
+    parser.add_argument("--valid_data", default="data/NSMC/test.txt")
     parser.add_argument("--vocab_dir", default="data/NSMC/vocab")
     parser.add_argument("--device", default="cuda:0")
     parser.add_argument("--emb_dim", default=300, type=int)
